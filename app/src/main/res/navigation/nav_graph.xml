@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="prasetyo.muhamad.utsAboutMe.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_mainFragment_to_hal2"
+            app:destination="@id/hal2" />
+    </fragment>
+    <fragment
+        android:id="@+id/hal2"
+        android:name="prasetyo.muhamad.utsAboutMe.hal2"
+        android:label="fragment_hal2"
+        tools:layout="@layout/fragment_hal2" >
+        <action
+            android:id="@+id/action_hal2_to_hal3"
+            app:destination="@id/hal3" />
+    </fragment>
+    <fragment
+        android:id="@+id/hal3"
+        android:name="prasetyo.muhamad.utsAboutMe.hal3"
+        android:label="fragment_hal3"
+        tools:layout="@layout/fragment_hal3" >
+        <action
+            android:id="@+id/action_hal3_to_hal4"
+            app:destination="@id/hal4" />
+    </fragment>
+    <fragment
+        android:id="@+id/hal4"
+        android:name="prasetyo.muhamad.utsAboutMe.hal4"
+        android:label="fragment_hal4"
+        tools:layout="@layout/fragment_hal4" />
+</navigation>

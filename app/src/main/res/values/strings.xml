@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">utsAboutMe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deskripsi">
+        \t Nama saya Muhamad Eko Prasetyo. Saya lahir di bantul tanggal 16 Oktober tahun 2000. \n
+        Pendidikan : \n
+        \t 1. TK Negeri Pembina Bantul (2004-2006) \n
+        \t 2. SDN Timbulharjo (2006-2012) \n
+        \t 3. SMP N 1 Bantul (2012-2015) \n
+        \t 4. SMK N 1 Bantul jurusan TKJ (2015-2018) \n
+        Sekarang saya menempuh pendidikan S1 di STMIK Akakom jurusan sisten informasi. \n
+        Fokus saya di bidang jaringan dan pemrograman web. \n \n
+
+        Beberapa kejuaraan yang telah dimenangkan : \n
+        \t 1. Juara 1 Lomba debat bahasa indonesia tingkat kab. Bantul (2017)  \n
+        \t 2. Juara 3 Lomba animasi video tingkat sma sederajat (2017) \n
+        \t 3. Juara harapan 1 aplikasi office (2017) \n \n
+
+        Alamat saya di jalan Parangtritis km 8.5, desa sewon rt01, Timbulharjo, Sewon, Bantul, Yogyakarta. \n
+        Kata motivasi : "Just Do It, Because Nothing Impossible" \n \n
+        
+        Hubungi Saya di : \n
+        Nomer HP dan WA : 082138685751 \n
+        Email : ekomonimo@gmail.com
+
+    </string>
+    <string name="nilai_tampilan">Pada tampilan yang ada, berikan nilai antara 1-5 di kolom input</string>
+    <string name="nilai">1-5</string>
+    <string name="submit">SUBMIT</string>
+    <string name="next_page">NEXT</string>
+    <string name="review">REVIEW</string>
+    <string name="desc_review"></string>
+    <string name="about_me">ABOUT ME</string>
+    <string name="klik">KLIK</string>
+    <string name="foto_profil">FOTO PROFIL</string>
+    <string name="nama">Muhamad Eko Prasetyo</string>
+    <string name="lanjut">LANJUT</string>
+    <string name="terima_kasih">TERIMA KASIH</string>
+    <string name="desc_terima_kasih">Terima kasih telah membaca biodata saya dan memberikan bintang sejumlah :  </string>
+</resources>
